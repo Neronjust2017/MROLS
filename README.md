@@ -1,4 +1,4 @@
-# Meta-Conv-Net
+# Meta-Reweighting-with-Offline-Loss-Sequence
 
 This is the code for the paper:
 《Meta-Conv-Net: Learning to Weight Samples from Offline Loss Sequence》
