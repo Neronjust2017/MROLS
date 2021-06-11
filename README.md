@@ -1,7 +1,7 @@
 # Meta-Reweighting-with-Offline-Loss-Sequence
 
 This is the code for the paper:
-《Meta-Conv-Net: Learning to Weight Samples from Offline Loss Sequence》
+《Learning to Reweight Samples with Offline Loss Sequence》
 
 ## Setups
 The requiring environment is as bellow:  
@@ -12,7 +12,7 @@ The requiring environment is as bellow:
 - Torchvision 0.6.0
 
 
-## Running Meta-Conv-Net with data bias (label noise and class imbalance)
+## Running MROLS with data bias (label noise and class imbalance)
 Here are some examples with label noise:
 ```bash
 (cifar10 flip2 noise)
